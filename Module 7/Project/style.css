@@ -1,0 +1,33 @@
+#main_section{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+.cart{
+    width: 50%;
+    box-shadow: 4px 4px 8px gray;
+    margin: auto;
+    text-align: center;
+}
+.product_sec{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+}
+
+.card{
+    border: 1px solid gray;
+    padding: 10px;
+    box-shadow: 4px 4px 8px gray;
+}
+.itms_img{
+    width: 70px;
+}
+.cart_itms{
+    display: flex;
+    justify-content: space-around;
+}

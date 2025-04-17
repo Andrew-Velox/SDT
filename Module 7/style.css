@@ -1,0 +1,33 @@
+.box{
+
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+}
+
+.inn{
+    display: flex;
+    justify-content: center;
+}
+
+.box_con{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.btn,.btnn{
+    padding: 10px;
+}
+#usr_data{
+    display: flex;
+}
+.datas{
+    /* width: 200px; */
+    /* height: 200px; */
+    margin: 5px;
+    /* border: 1px solid black; */
+}
