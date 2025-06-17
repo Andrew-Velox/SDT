@@ -1,2 +1,2 @@
 # SDT
-This Repository is for my Phitron SDT's projects &amp; codes
+This repository is for Phitron's OOP and SDT's projects and code. 📀
